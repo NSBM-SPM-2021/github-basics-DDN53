@@ -1,0 +1,14 @@
+D:\repos\Library\Library\bin\Debug\Library.exe.config
+D:\repos\Library\Library\bin\Debug\Library.exe
+D:\repos\Library\Library\bin\Debug\Library.pdb
+D:\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\repos\Library\Library\obj\Debug\Library.Form1.resources
+D:\repos\Library\Library\obj\Debug\Library.Home.resources
+D:\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\repos\Library\Library\obj\Debug\Library.exe
+D:\repos\Library\Library\obj\Debug\Library.pdb
+D:\repos\Library\Library\obj\Debug\Library.Report.resources
+D:\repos\Library\Library\obj\Debug\Library.Edit.resources
+D:\repos\Library\Library\obj\Debug\Library.Delete.resources
